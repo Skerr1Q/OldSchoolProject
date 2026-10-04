@@ -1,0 +1,90 @@
+{
+  "DBIS-Course": {
+    "bundle_sha256": "4a8f35baf81acd119283d3632dc60b3620d70c3418c22234ce82b803296fe4b5",
+    "head": "30882e4fce4bc12fa206a162ba979878ce956642",
+    "metadata_sha256": "25a2fa9c6d2d68823b630030ad4c8b2b8e2ff2456ed5f1331ad48cb993d5a3f4",
+    "refs": {
+      "refs/heads/master": "30882e4fce4bc12fa206a162ba979878ce956642"
+    },
+    "remote_refs": {
+      "refs/heads/master": "30882e4fce4bc12fa206a162ba979878ce956642"
+    },
+    "tree": "ee6a030dce9e2295040df094d8b827708e8aece5"
+  },
+  "IdleGame": {
+    "bundle_sha256": "d823deaeadd7723e9024011cad8fa83911827f0549d7ff29add91fa206325bb9",
+    "head": "e4691b525a8c82fe2aee447e09fd3de2b9c6605e",
+    "metadata_sha256": "ee14fad8e29bdf81c9898196ef0bdec62c09f96bc955e50e6be2365ae95a2819",
+    "refs": {
+      "refs/heads/master": "e4691b525a8c82fe2aee447e09fd3de2b9c6605e"
+    },
+    "remote_refs": {
+      "refs/heads/master": "e4691b525a8c82fe2aee447e09fd3de2b9c6605e"
+    },
+    "tree": "c8c8d79d60482a519849af8ffeafff6d5a2376de"
+  },
+  "Intro-To-Databases": {
+    "bundle_sha256": "1116d7cd1caea51af0d8f9f93a5c03a22f8932ba24f87bd21581b4fa1aa8c0a4",
+    "head": "e2d81374bf8a77818f3c99327f916a6564f017d4",
+    "metadata_sha256": "68765fa19e58850d14f9120e874a68dfac4f6c89042574f98a7680a10ca1ca32",
+    "refs": {
+      "refs/heads/master": "e2d81374bf8a77818f3c99327f916a6564f017d4"
+    },
+    "remote_refs": {
+      "refs/heads/master": "e2d81374bf8a77818f3c99327f916a6564f017d4"
+    },
+    "tree": "f41cd0e40c68366beabb7a0fa6e091165a2f4694"
+  },
+  "NQueens": {
+    "bundle_sha256": "b224d20c665e67dd5b8a05f94de4c1f8a47d4a8e8c0efecff607827d6d29e209",
+    "head": "6be2b50d59baf6362e5867af0f0497c560198bca",
+    "metadata_sha256": "b8ff28b2014f4aa585cfe5dfd5b2e4f2f576533341aa612281e809069145f85b",
+    "refs": {
+      "refs/heads/master": "6be2b50d59baf6362e5867af0f0497c560198bca"
+    },
+    "remote_refs": {
+      "refs/heads/master": "6be2b50d59baf6362e5867af0f0497c560198bca"
+    },
+    "tree": "c1a128bfb69fa1b20dd482697c0ab7e544ca9430"
+  },
+  "Optimization-Methods-Course-Project": {
+    "bundle_sha256": "8131f4664014ea7561e2610e27f962ce917e9c505dbe218ad07bbbec6d0fe7ec",
+    "head": "58fc70ff3bbb7d0d0990c986d0cdf37aecc543be",
+    "metadata_sha256": "2ba015d883d63e496021ce0c2b70f38169a12f9a303e4634f8aeba61ad5b9845",
+    "refs": {
+      "refs/heads/main": "58fc70ff3bbb7d0d0990c986d0cdf37aecc543be"
+    },
+    "remote_refs": {
+      "refs/heads/main": "58fc70ff3bbb7d0d0990c986d0cdf37aecc543be"
+    },
+    "tree": "f83e2154769874474cb6299d6e0239b21d7aa976"
+  },
+  "ShortMovies": {
+    "bundle_sha256": "e05011a985ee8752bdedfe65650343561407da391f0ee7de693e5e07d3a0b29c",
+    "head": "150e17bd9735efd29489b2c1f401d6a43110a471",
+    "metadata_sha256": "aa83b1dc7a28ea9c9cac1f2094585894533259bd2e0676ce104dc6cfa41a3f11",
+    "refs": {
+      "refs/heads/master": "150e17bd9735efd29489b2c1f401d6a43110a471",
+      "refs/pull/1/head": "e53d71b4557fd66e57cb9a3cd81935d067d37c1f",
+      "refs/pull/1/merge": "39ee979ffa1cd102252970121965b29d7833fb2e"
+    },
+    "remote_refs": {
+      "refs/heads/master": "150e17bd9735efd29489b2c1f401d6a43110a471",
+      "refs/pull/1/head": "e53d71b4557fd66e57cb9a3cd81935d067d37c1f",
+      "refs/pull/1/merge": "39ee979ffa1cd102252970121965b29d7833fb2e"
+    },
+    "tree": "468b7357663ee18da547907116d4328b082184bb"
+  },
+  "SudokuSolver": {
+    "bundle_sha256": "feb72c22ebf30bad57f99ceb2633eb892a250a0acbcf3a376a70b432377d6f51",
+    "head": "30e058bff1a3eb652f970af6fdce51c69b8ac64f",
+    "metadata_sha256": "0b688ffccac31c805afb283220b49fbbf7d5e29a83f51fcaa9abc62cdbe6b02c",
+    "refs": {
+      "refs/heads/master": "30e058bff1a3eb652f970af6fdce51c69b8ac64f"
+    },
+    "remote_refs": {
+      "refs/heads/master": "30e058bff1a3eb652f970af6fdce51c69b8ac64f"
+    },
+    "tree": "80803b98f9a245bcc3b54307f17c54f7c8efb975"
+  }
+}
